@@ -2,6 +2,7 @@
 
 int main() {
     int n, i, k;
+    printf("Enter number of sides:\n");
     scanf("%d", &n);
     printf("\n");
     printf("*");
